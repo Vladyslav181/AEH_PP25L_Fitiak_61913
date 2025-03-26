@@ -1,6 +1,6 @@
 package pl.pp;
 import java.util.Scanner;
-public class mojaTrzeciaAplikacja {
+public class mojaCzwartaAplikacja {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj proszę liczbę większą od 100:");
