@@ -1,6 +1,6 @@
 package pl.pp;
 
-public class mojaPiataAplikacja {
+public class mojaSzostaAplikacja {
     public static void main(String[] args) {
 
         // Obliczenia i wyświetlenie wyniku dla wartości przypisanych w kodzie aplikacji
