@@ -2,7 +2,7 @@ package pl.pp;
 
 import java.util.*;
 
-public class mojaDziesiataAplikacja {
+public class mojaJedenastaAplikacja {
     public static void main(String[] args) {
         // Deklaracje tablic - przykładowo
         int[] a = new int[100]; // tablica int o nazwie a zawierająca 100 elementów
